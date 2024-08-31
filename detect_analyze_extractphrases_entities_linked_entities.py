@@ -5,7 +5,7 @@
 # Extract key phrases, entities, and linked entities.
 ###############################################################################################################################################
 
-# For this Project, you need to create Azure Language Service.
+# For this Project, you need to create Azure Language Service in Portal.azure.com.
 # Go to Resource Management -> Keys and End points, and find the Key and endpoints and add it to your environment file.
 ###############################################################################################################################################
 
